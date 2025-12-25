@@ -1,0 +1,7 @@
+{
+  "name": "Aurora: Pesquisadora Metodológica",
+  "description": "Uma assistente de pesquisa científica avançada projetada para auxiliar acadêmicos na estruturação de projetos, busca de referências reais com DOI e formatação de normas ABNT/APA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
